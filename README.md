@@ -3,25 +3,6 @@ PlatinumRx Data Analyst Assignment
 This repository contains the complete solution for the PlatinumRx Data Analyst Assignment, implemented as per the given requirements.
 The project demonstrates skills across SQL, Spreadsheet-based analysis, and Python scripting.
 
-Project Structure
-
-Data_Analyst_Assignment/
-│
-├── SQL/
-│   ├── 01_Hotel_Schema_Setup.sql
-│   ├── 02_Hotel_Queries.sql
-│   ├── 03_Clinic_Schema_Setup.sql
-│   └── 04_Clinic_Queries.sql
-│
-├── Spreadsheets/
-│   └── Ticket_Analysis.xlsx
-│
-├── Python/
-│   ├── 01_Time_Converter.py
-│   └── 02_Remove_Duplicates.py
-│
-└── README.md
-
 Phase 1 — SQL
 
 This section covers two systems:
